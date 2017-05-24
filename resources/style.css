@@ -21,7 +21,7 @@ h3 {
 
 h4 {
   font-size: 11px;
-  color: white
+  color: white;
   background-color: dimgray;
   text-align: left;
 }
@@ -33,7 +33,11 @@ h4 {
 
 nav {
   background-image: url(./images/the-flatiron-building.png);
+}
+
+nav .menu {
   color: white;
   font-weight: bold;
   font-size: 18px;
+  text-decoration: underline;
 }
